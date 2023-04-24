@@ -1,12 +1,8 @@
 
-<p align="center"><img src="[https://unsplash.com/fr/photos/FXFz-sW0uwo](https://images.unsplash.com/photo-1510511459019-5dda7724fd87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ghazi-mkinini-66a078168"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center">
-</p>
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc2ZTZiYWQyYzQzNzUzMzkwOTVlZDUwYjJmY2NkNTVkNmQxODEwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="600" height="300"  /></p>
 
 
