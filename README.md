@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc2ZTZiYWQyYzQzNzUzMzkwOTVlZDUwYjJmY2NkNTVkNmQxODEwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc2ZTZiYWQyYzQzNzUzMzkwOTVlZDUwYjJmY2NkNTVkNmQxODEwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="100%"   /></p>
 
 ### :technologist: &nbsp;About Me :
 
