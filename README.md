@@ -6,7 +6,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - ⚡ FullStack/Devops specialist using bleeding edge stacks: React18, Nextjs13, Nodejs/NestJs, TailwindCss....
 - ⚡ Frameworks&tools : ReactQuery, React3Fiber, Nestjs, GitLab CI/CD, Docker, LoadBalancers/Proxy, Terraform, Kube... 
-- ⚡ In my free time I implement archiectures like micro-services, DevOps pipelines, Virtualisation and kube deployments.
+- ⚡ In my free time I implement architectures like micro-services, DevOps pipelines, Virtualisation and kube deployments.
 - ⚡ How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ghazi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghazi-mkinini-66a078168/)
 
 ---
